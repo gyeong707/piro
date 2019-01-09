@@ -1,5 +1,3 @@
-##단어장 만들기 예제##
-
 voca = open("vocabulary.txt", 'w')
 
 while True:
