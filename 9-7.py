@@ -1,5 +1,3 @@
-#코딩에 빠진 닭 예제#
-
 coba = open('chicken.txt', 'r')
 sum = 0
 day = 0
